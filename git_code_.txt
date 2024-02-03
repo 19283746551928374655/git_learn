@@ -1,0 +1,13 @@
+ کدهای اتصال به گیت
+git remote add origin repoName
+git branch -M main
+git pull --rebase origin main
+git push -u origin 
+#######################
+git add کدهای اضافه کردن
+git restore --staged filename or .   برگردان فایل موردنظری که استیج شده
+git clean -f حذف کردن فایل ها 
+git status دیدن تغییراتی که ایجاد شده
+
+
+
