@@ -8,6 +8,8 @@ git add کدهای اضافه کردن
 git restore --staged filename or .   برگردان فایل موردنظری که استیج شده
 git clean -f حذف کردن فایل ها 
 git status دیدن تغییراتی که ایجاد شده
+git commit -m "description of the changes" توضیحاتی در مورد تغییراتی که اتفاق افتاده
+git log دایرکتوری اسم و زمانی که فایل ها کامیت شدن
 
 
 
